@@ -13,4 +13,25 @@ height: auto;
 margin: auto;
 padding: 15px; 
 box-shadow: 2px 4px rgba(255,136,0,0.5); 
+background-color: #ffff;
+font-family: Verdana; Geneva, Tahoma, sans-serif;
+}
+.cabecalho{
+height: 20%;
+widht: 95%;
+padding: 20px;
+margin: 5px;
+display: inline-block;
+text-align: center;
+align-items: center;
+border-bottom: #dcdcdc solid;
+}
+.titulo{
+text-transform: uppercase;
+text-align: center;
+font-size: 24px;
+text-shadow: 2px 4px rgba(255,136,0,0.5);
+color: #ff9900;
+float: right;
+
 }
