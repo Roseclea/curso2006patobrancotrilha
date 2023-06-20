@@ -33,5 +33,13 @@ font-size: 24px;
 text-shadow: 2px 4px rgba(255,136,0,0.5);
 color: #ff9900;
 float: right;
+}
+.secao1{
+    padding: 20px;
+    font-size: 14pt;
+}
+.item{
+    font-style: italic;
+}
 
 }
